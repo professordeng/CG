@@ -1,3 +1,3 @@
 # OpenGL
 
-- <https://professordeng.com/blog>
+- OpenGL 实现的一些样例
